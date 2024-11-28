@@ -1,9 +1,7 @@
 config.py
 .ipynb_checkpoints
-# Ignore results folder
+__pycache__/*
 results/
-
-# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 .DS_Store

@@ -9,3 +9,4 @@ results/
 .DS_Store
 */.DS_Store
 */results/*
+.ipynb_checkpoints/Automatic Piano Evaluation with ChatGPT-checkpoint.ipynb

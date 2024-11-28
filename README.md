@@ -11,7 +11,7 @@
 
 ### Usage
 ```
-stable-diffusion-attack/
+Automatic_Piano_Evaluation_via_LLM/
 ├── Automatic Piano Evaluation with ChatGPT.ipynb
 ├── Automatic Piano Evaluation using BERT.ipynb            
 ├── midi_data/                  # Folder containing input and target files, such as midi and csv.

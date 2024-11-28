@@ -14,7 +14,7 @@
 stable-diffusion-attack/
 ├── Automatic Piano Evaluation with ChatGPT.ipynb
 ├── Automatic Piano Evaluation using BERT.ipynb            
-├── midi_data/                  # Folder containing input test images
+├── midi_data/                  # Folder containing input and target files, such as midi and csv.
 └── README.md              
 ```
 

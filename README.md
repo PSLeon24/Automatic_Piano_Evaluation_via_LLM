@@ -9,8 +9,6 @@
 
 ### Result
 
-### Environment Setup
-
 ### Usage
 ```
 stable-diffusion-attack/

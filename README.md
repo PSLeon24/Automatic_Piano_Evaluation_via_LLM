@@ -7,6 +7,9 @@
 3. 청크의 평균보다 각 청크의 점수를 활용해서 점수대별 가중치를 적용해서 평균내는게 좋을 것 같기도?
 
 ### Abstract
+This study introduces a novel expert system designed to evaluate piano performances using advanced LLMs, such as ChatGPT-4o, providing detailed feedback on musical accuracy, similarity, consistency, and alignment with target music score. The system analyzes performance data chunked into 10-second intervals, focusing on key evaluation criteria, including note accuracy, dynamic similarity, dynamic change consistency, accent accuracy, articulation similarity, rhythm similarity, and pedaling accuracy. Leveraging advanced Large Language Models, the system ensures comprehensive and precise feedback for each chunk, culminating in an overall evaluation that highlights strengths, weaknesses, and actionable suggestions for improvement.
+Proposed structured prompt methodology ensures the alignment of feedback with pedagogical objectives, enabling performers to target specific areas for refinement.
+The experimental results demonstrate the system's potential as an effective tool for music educators and learners, providing objective, automated performance evaluation that supplements traditional instruction methods. By bridging computational precision with pedagogical value, this study contributes to the growing field of AI-assisted education, specifically in the domain of piano performance evaluation. Future work aims to expand the system’s application to broader musical genres and instruments, further enhancing its educational impact.
 
 ### Result
 
